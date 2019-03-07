@@ -1,0 +1,25 @@
+{
+  "name": "hot-restuarant-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hotServer.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon hotServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielrmorenop/hot-restuarant-app.git"
+  },
+  "author": "art",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielrmorenop/hot-restuarant-app/issues"
+  },
+  "homepage": "https://github.com/danielrmorenop/hot-restuarant-app#readme"
+}
